@@ -1,0 +1,130 @@
+[
+    {
+        "num": 1,
+        "name": "Зенит",
+        "game": 27,
+        "win": 20,
+        "draw": 5,
+        "defeat": 2
+    },
+    {
+        "num": 2,
+        "name": "ПФК ЦСКА",
+        "game": 27,
+        "win": 16,
+        "draw": 6,
+        "defeat": 5
+    },
+    {
+        "num": 3,
+        "name": "Ростов",
+        "game": 27,
+        "win": 14,
+        "draw": 8,
+        "defeat": 5
+    },
+    {
+        "num": 4,
+        "name": "Спартак",
+        "game": 27,
+        "win": 14,
+        "draw": 8,
+        "defeat": 5
+    },
+    {
+        "num": 5,
+        "name": "Ахмат",
+        "game": 27,
+        "win": 14,
+        "draw": 4,
+        "defeat": 9
+    },
+    {
+        "num": 6,
+        "name": "Краснодар",
+        "game": 27,
+        "win": 12,
+        "draw": 7,
+        "defeat": 8
+    },
+    {
+        "num": 7,
+        "name": "Динамо",
+        "game": 27,
+        "win": 12,
+        "draw": 6,
+        "defeat": 9
+    },
+    {
+        "num": 8,
+        "name": "Оренбург",
+        "game": 27,
+        "win": 12,
+        "draw": 3,
+        "defeat": 12
+    },
+    {
+        "num": 9,
+        "name": "Сочи",
+        "game": 27,
+        "win": 11,
+        "draw": 4,
+        "defeat": 12
+    },
+    {
+        "num": 10,
+        "name": "Локомотив",
+        "game": 27,
+        "win": 10,
+        "draw": 6,
+        "defeat": 11
+    },
+    {
+        "num": 11,
+        "name": "Урал",
+        "game": 27,
+        "win": 8,
+        "draw": 6,
+        "defeat": 13
+    },
+    {
+        "num": 12,
+        "name": "Факел",
+        "game": 27,
+        "win": 5,
+        "draw": 12,
+        "defeat": 10
+    },
+    {
+        "num": 13,
+        "name": "Крылья Советов",
+        "game": 27,
+        "win": 6,
+        "draw": 8,
+        "defeat": 13
+    },
+    {
+        "num": 14,
+        "name": "Пари НН",
+        "game": 27,
+        "win": 6,
+        "draw": 5,
+        "defeat": 16
+    },
+    {
+        "num": 15,
+        "name": "Химки",
+        "game": 27,
+        "win": 4,
+        "draw": 6,
+        "defeat": 17
+    },
+    {
+        "num": 16,
+        "name": "Торпедо Москва",
+        "game": 27,
+        "win": 3,
+        "draw": 4,
+        "defeat": 20
+    }
+]
